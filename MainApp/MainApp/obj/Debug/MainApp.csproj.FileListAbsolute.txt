@@ -1,0 +1,10 @@
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day20\Day20Assignment\MainApp\MainApp\bin\Debug\MainApp.exe.config
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day20\Day20Assignment\MainApp\MainApp\bin\Debug\MainApp.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day20\Day20Assignment\MainApp\MainApp\bin\Debug\MainApp.pdb
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day20\Day20Assignment\MainApp\MainApp\bin\Debug\SharedLib.dll
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day20\Day20Assignment\MainApp\MainApp\bin\Debug\SharedLib.pdb
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day20\Day20Assignment\MainApp\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day20\Day20Assignment\MainApp\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day20\Day20Assignment\MainApp\MainApp\obj\Debug\MainApp.csproj.CopyComplete
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day20\Day20Assignment\MainApp\MainApp\obj\Debug\MainApp.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day20\Day20Assignment\MainApp\MainApp\obj\Debug\MainApp.pdb

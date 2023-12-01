@@ -1,0 +1,6 @@
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day20\Day20Assignment\SharedLib\SharedLib\bin\Debug\SharedLib.dll
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day20\Day20Assignment\SharedLib\SharedLib\bin\Debug\SharedLib.pdb
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day20\Day20Assignment\SharedLib\SharedLib\obj\Debug\SharedLib.csproj.AssemblyReference.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day20\Day20Assignment\SharedLib\SharedLib\obj\Debug\SharedLib.csproj.CoreCompileInputs.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day20\Day20Assignment\SharedLib\SharedLib\obj\Debug\SharedLib.dll
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\Day20\Day20Assignment\SharedLib\SharedLib\obj\Debug\SharedLib.pdb
